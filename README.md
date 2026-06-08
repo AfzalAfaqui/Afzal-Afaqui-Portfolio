@@ -11,7 +11,7 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 Portfolio builder made for engineers with 2 min onboarding with smart resume import. Vist [lowinertia.com](https://lowinertia.com) to find out more. Enjoy integrated tools such as rich text editor, interactive CAD presenter, PDF export, and engineering notebook. Highly recommended for engineers in mechanical, electrical, aerospace, robotics, mechatronics, and civil disciplines. 
 
 
-# free-to-engineer-portflio-template instructions
+# free-to-engineer-portflio-template instructions 
 
 ### 1. Setting Up Your Page on GitHub (5 min)
 - [Getting Started](#getting-started)
